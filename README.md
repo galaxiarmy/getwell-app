@@ -1,4 +1,4 @@
-# luna-pokemon-game
+# getwell-app
 Technical Test Getwell as Fullstack Mobile Developer
 
 This project use React Native framework, only running on Android
